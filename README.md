@@ -1,6 +1,7 @@
 <h2 align="center">Hi there! I'm Vishal Kotekar 👋</h2>
 
-![Profile Image](https://github.com/your-username/your-repo-name/blob/main/your-image-name.jpg)
+![Profile Image](![1698244916360](https://github.com/user-attachments/assets/759280dd-9691-49c7-8d75-3bb6292f9c01)
+
 
 - 🔭 I’m currently working on [LinkedIn Clone](https://github.com/VishalKotekar/linkedin-clone)
 - 🌱 I’m learning **AWS, React, and Backend Development**
