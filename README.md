@@ -42,7 +42,7 @@
 ## Featured Projects
 
 ### [Sharad School](https://github.com/VishalKotekar/SharadSchool)
-- Developed a School Management System using React, Java, and MySQL.
+- Developed a School Management System using **Django**.
 - Implemented functionalities like course tracking, student management, and secure login features.
 - Deployed on AWS EC2 for scalability.
 
