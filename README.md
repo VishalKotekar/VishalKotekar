@@ -8,7 +8,9 @@
   I'm Vishal Kotekar 👋
 </h2>
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/c0e272ad-447c-40fc-8787-a950f3e7f934" alt="Profile Image" width="200" /> </p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c0e272ad-447c-40fc-8787-a950f3e7f934" alt="Profile Image" width="200" />
+</p>
 
 ---
 
@@ -41,13 +43,13 @@
 
 ### [Sharad School](https://github.com/VishalKotekar/SharadSchool)
 - Developed a School Management System using React, Java, and MySQL.
-- Implemented enhanced functionalities like course tracking, student management, and secure login features.
+- Implemented functionalities like course tracking, student management, and secure login features.
 - Deployed on AWS EC2 for scalability.
 
 ### [Absolute Global Official Website](https://absolute-global.com/)
 - Spearheaded the front-end using React, JavaScript, and Bootstrap.
 - Integrated AI bots for enhanced user experience.
-- Deployed on AWS for scalable solutions.
+- Deployed on AWS for scalability.
 
 ---
 
