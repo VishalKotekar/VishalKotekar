@@ -1,8 +1,6 @@
 <h2 align="center">Hi there! I'm Vishal Kotekar 👋</h2>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/5ndklThG9vUUdTmgMn/giphy.gif" alt="Coding GIF" width="500"/>
-</p>
+![Profile Image](https://github.com/your-username/your-repo-name/blob/main/your-image-name.jpg)
 
 - 🔭 I’m currently working on [LinkedIn Clone](https://github.com/VishalKotekar/linkedin-clone)
 - 🌱 I’m learning **AWS, React, and Backend Development**
