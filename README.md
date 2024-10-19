@@ -28,10 +28,12 @@
 </p>
 
 <p align="center">
-  Achievements: 
   <img src="https://github-profile-trophy.vercel.app/?username=VishalKotekar&theme=onedark&row=1&column=2&margin-w=15&margin-h=15" alt="Vishal's GitHub Achievements"/>
-  - Pull Shark
-  - Quick Draw
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Achievements-Pull%20Shark-ffcc29?style=flat&logo=github&logoColor=black" alt="Pull Shark Badge"/>
+  <img src="https://img.shields.io/badge/Achievements-Quick%20Draw-ffcc29?style=flat&logo=github&logoColor=black" alt="Quick Draw Badge"/>
 </p>
 
 ---
