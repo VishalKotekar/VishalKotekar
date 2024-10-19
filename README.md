@@ -1,22 +1,14 @@
 <h2 align="center">
-  <span id="greeting">Hello</span>, I'm Vishal Kotekar 👋
+  Hello | Hola | Bonjour | Hallo | Ciao | Namaste | こんにちは | 안녕하세요  
+</h2>
+
+<h2 align="center">
+  I'm Vishal Kotekar 👋
 </h2>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d453595b-97f8-4af2-bbe8-1a844b679cf1" alt="Profile Image" width="200" />
+  <img src="https://github.com/user-attachments/assets/c0e272ad-447c-40fc-8787-a950f3e7f934" alt="Profile Image" width="200" />
 </p>
-
-<script>
-  // Array of greetings in different languages
-  const greetings = ['Hello', 'Hola', 'Bonjour', 'Hallo', 'Ciao', 'Namaste', 'こんにちは', '안녕하세요'];
-  let greetingIndex = 0;
-
-  // Function to change greeting every 2 seconds
-  setInterval(() => {
-    document.getElementById('greeting').innerText = greetings[greetingIndex];
-    greetingIndex = (greetingIndex + 1) % greetings.length;
-  }, 2000);
-</script>
 
 ---
 
