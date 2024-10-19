@@ -20,30 +20,16 @@
 - 📫 Reach me at: [vishalkotekar0096@gmail.com](mailto:vishalkotekar0096@gmail.com)
 
 ---
-
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishalKotekar&show_icons=true&theme=radical" alt="Vishal's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VishalKotekar&theme=onedark&row=1&column=2&margin-w=15&margin-h=15" alt="Vishal's GitHub Achievements"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Achievements-Pull%20Shark-ffcc29?style=flat&logo=github&logoColor=black" alt="Pull Shark Badge"/>
-  <img src="https://img.shields.io/badge/Achievements-Quick%20Draw-ffcc29?style=flat&logo=github&logoColor=black" alt="Quick Draw Badge"/>
-</p>
-
----
-
 <h3 align="center">Most Used Languages</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKotekar&layout=compact&theme=radical" alt="Most Used Languages"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Achievements-Pull%20Shark-ffcc29?style=flat&logo=github&logoColor=black" alt="Pull Shark Badge"/>
+  <img src="https://img.shields.io/badge/Achievements-Quick%20Draw-ffcc29?style=flat&logo=github&logoColor=black" alt="Quick Draw Badge"/>
+</p>
 ---
 
 ## Featured Projects
