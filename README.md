@@ -3,8 +3,7 @@
 </h2>
 
 <p align="center">
-  <img src="![1698244916360](https://github.com/user-attachments/assets/d453595b-97f8-4af2-bbe8-1a844b679cf1)
-" alt="Profile Image" width="200" />
+  <img src="https://github.com/user-attachments/assets/d453595b-97f8-4af2-bbe8-1a844b679cf1" alt="Profile Image" width="200" />
 </p>
 
 <script>
