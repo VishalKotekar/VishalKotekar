@@ -25,16 +25,13 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VishalKotekar&show_icons=true&theme=radical" alt="Vishal's GitHub Stats"/>
+  <br/>
+  Achievements: 
+  <img src="https://github-profile-trophy.vercel.app/?username=VishalKotekar&theme=onedark" alt="Vishal's GitHub Achievements"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKotekar&layout=compact&theme=radical" alt="Top Languages"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VishalKotekar&theme=onedark" alt="Vishal's GitHub Trophies"/>
 </p>
 
 ---
