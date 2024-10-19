@@ -1,14 +1,14 @@
-<h2 align="center">
-  Hello | Hola | Bonjour | Hallo | Ciao | Namaste | こんにちは | 안녕하세요  
-</h2>
+<h2 align="center">Hi there! 👋</h2>
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/f8576a8200fe0a4bbb11d8e0ce002796ce87dafe54773948a969757624d84deb/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f736a6465762f696d6167652f75706c6f61642f76313633363837333937322f4769742d526561646d652f48656c6c6f5f315f7270656d6e752e676966" alt="Hello GIF" />
+</p>
 
 <h2 align="center">
   I'm Vishal Kotekar 👋
 </h2>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/c0e272ad-447c-40fc-8787-a950f3e7f934" alt="Profile Image" width="200" />
-</p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/c0e272ad-447c-40fc-8787-a950f3e7f934" alt="Profile Image" width="200" /> </p>
 
 ---
 
