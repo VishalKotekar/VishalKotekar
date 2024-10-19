@@ -1,7 +1,25 @@
-<h2 align="center">Hi there! I'm Vishal Kotekar 👋</h2>
+<h2 align="center">
+  <span id="greeting">Hello</span>, I'm Vishal Kotekar 👋
+</h2>
 
-![Profile Image](![1698244916360](https://github.com/user-attachments/assets/759280dd-9691-49c7-8d75-3bb6292f9c01)
+<p align="center">
+  <img src="![1698244916360](https://github.com/user-attachments/assets/d453595b-97f8-4af2-bbe8-1a844b679cf1)
+" alt="Profile Image" width="200" />
+</p>
 
+<script>
+  // Array of greetings in different languages
+  const greetings = ['Hello', 'Hola', 'Bonjour', 'Hallo', 'Ciao', 'Namaste', 'こんにちは', '안녕하세요'];
+  let greetingIndex = 0;
+
+  // Function to change greeting every 2 seconds
+  setInterval(() => {
+    document.getElementById('greeting').innerText = greetings[greetingIndex];
+    greetingIndex = (greetingIndex + 1) % greetings.length;
+  }, 2000);
+</script>
+
+---
 
 - 🔭 I’m currently working on [LinkedIn Clone](https://github.com/VishalKotekar/linkedin-clone)
 - 🌱 I’m learning **AWS, React, and Backend Development**
