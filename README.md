@@ -12,8 +12,6 @@
   <img src="https://github.com/user-attachments/assets/c0e272ad-447c-40fc-8787-a950f3e7f934" alt="Profile Image" width="200" />
 </p>
 
----
-
 - 🔭 I’m currently working on [LinkedIn Clone](https://github.com/VishalKotekar/linkedin-clone)
 - 🌱 I’m learning **AWS, React, and Backend Development**
 - 💬 Ask me about **React, Java, MySQL, AWS**
