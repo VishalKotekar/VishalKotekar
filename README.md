@@ -23,7 +23,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKotekar&layout=compact&theme=radical" alt="Most Used Languages"/>
 </p>
+
 ---
+
 ## Featured Projects
 
 ### [Sharad School](https://github.com/VishalKotekar/SharadSchool)
