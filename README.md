@@ -23,12 +23,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalKotekar&layout=compact&theme=radical" alt="Most Used Languages"/>
 </p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Achievements-Pull%20Shark-ffcc29?style=flat&logo=github&logoColor=black" alt="Pull Shark Badge"/>
-  <img src="https://img.shields.io/badge/Achievements-Quick%20Draw-ffcc29?style=flat&logo=github&logoColor=black" alt="Quick Draw Badge"/>
-</p>
-
 ---
 ## Featured Projects
 
